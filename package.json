@@ -1,6 +1,6 @@
 {
     "name": "eclinter",
-    "version": "1.0.0-alpha",
+    "version": "1.0.0-alpha.1",
     "description": "Validate that doesn't adhere to EditorConfig settings",
     "license": "MIT",
     "author": "itgalaxy <development@itgalaxy.company>",
