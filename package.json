@@ -44,6 +44,9 @@
         "!**/__tests__"
     ],
     "dependencies": {
+        "debug": "^2.6.0",
+        "file-entry-cache": "^2.0.0",
+        "imurmurhash": "^0.1.4",
         "async-throttle": "^1.0.0",
         "globby": "^6.0.0",
         "lintspaces": "~0.5.0",
