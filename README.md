@@ -1,7 +1,6 @@
 # eclinter
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/itgalaxy/eclinter.svg)](https://greenkeeper.io/)
-
 [![Dependencies Status](https://david-dm.org/itgalaxy/eclinter/status.svg)](https://david-dm.org/itgalaxy/eclinter) 
 [![DevDependencies Status](https://david-dm.org/itgalaxy/eclinter/dev-status.svg)](https://david-dm.org/itgalaxy/eclinter?type=dev)
 
