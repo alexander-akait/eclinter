@@ -56,14 +56,14 @@
         "micromatch": "^3.0.0",
         "table": "^4.0.1",
         "ignore": "^3.2.0",
-        "chalk": "^1.1.1",
+        "chalk": "^2.0.0",
         "string-width": "^2.0.0",
-        "log-symbols": "^1.0.2",
+        "log-symbols": "^2.0.0",
         "isbinaryfile": "^3.0.2",
         "pify": "^3.0.0"
     },
     "devDependencies": {
-        "ava": "^0.20.0",
+        "ava": "^0.21.0",
         "ajv-cli": "^2.1.0",
         "babel-cli": "^6.11.0",
         "babel-core": "^6.22.0",
@@ -71,10 +71,10 @@
         "babel-preset-stage-0": "^6.5.0",
         "babel-register": "^6.9.0",
         "coveralls": "^2.11.6",
-        "eslint": "^3.19.0",
+        "eslint": "^4.2.0",
         "eslint-plugin-ava": "^4.0.0",
         "eslint-plugin-import": "^2.2.0",
-        "eslint-plugin-itgalaxy": "^49.0.0",
+        "eslint-plugin-itgalaxy": "^50.0.0",
         "eslint-plugin-jsx-a11y": "^6.0.1",
         "eslint-plugin-lodash": "^2.1.0",
         "eslint-plugin-node": "^5.0.0",
@@ -84,9 +84,9 @@
         "npmpub": "^3.1.0",
         "npm-run-all": "^4.0.0",
         "package-schema": "^1.0.0",
-        "remark-cli": "^3.0.0",
+        "remark-cli": "^4.0.0",
         "remark-lint": "^6.0.0",
-        "remark-preset-lint-itgalaxy": "^6.0.0"
+        "remark-preset-lint-itgalaxy": "^7.0.0"
     },
     "scripts": {
         "coveralls": "nyc report --reporter=text-lcov | coveralls",
