@@ -72,7 +72,7 @@
         "babel-register": "^6.9.0",
         "coveralls": "^2.11.6",
         "eslint": "^4.2.0",
-        "eslint-plugin-ava": "^4.0.0",
+        "eslint-plugin-ava": "^4.2.2",
         "eslint-plugin-import": "^2.2.0",
         "eslint-plugin-itgalaxy": "^51.0.0",
         "eslint-plugin-jsx-a11y": "^6.0.1",
